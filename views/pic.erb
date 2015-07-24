@@ -1,0 +1,80 @@
+<!-- <p id="lightbluetint"> sdfsdf </p> -->
+<body id="jenshannon">
+<% @answers.reverse_each do |answer| %>
+
+<%  if !answer.question1.nil? %>
+	<% if answer.question1 == true %>
+		<% bradleyone="blue" %>
+
+	<% else %>
+		<% bradleyone="christmasstar" %>
+
+	<% end %>
+<% else %>
+	<p id="magenta">duckies</p>
+<% end %>
+
+<p class = <%= bradleyone %> >
+	<%= answer.question1 %> 
+</p>
+
+
+
+
+
+<%  if !answer.question2.nil? %>
+	<% if answer.question2 == true %>
+		<% bradleytwo="orange" %>
+
+	<% else %>
+		<% bradleytwo="red" %>
+
+	<% end %>
+<% else %>
+	<p id="green">duckies</p>
+<% end %>
+
+<p class = <%= bradleytwo %> >
+	<%= answer.question2 %> 
+</p>
+
+
+<%  if !answer.question3.nil? %>
+	<% if answer.question3 == true %>
+		<% bradleythree="springgreen" %>
+
+	<% else %>
+		<% bradleythree="purple" %>
+
+	<% end %>
+<% else %>
+	<p id="cyan">duckies</p>
+<% end %>
+
+<p class = <%= bradleythree %> >
+	<%= answer.question3 %> 
+</p>
+
+<%  if !answer.question4.nil? %>
+	<% if answer.question4 == true %>
+		<% bradleyfour="darkslateblue" %>
+
+	<% else %>
+		<% bradleyfour="deeppink" %>
+
+	<% end %>
+<% else %>
+	<p id="darkred">duckies</p>
+<% end %>
+
+<p class = <%= bradleyfour %> >
+	<%= answer.question4 %> 
+</p>
+
+<% end%>
+
+
+	</body> 
+
+
+

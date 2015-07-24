@@ -1,0 +1,177 @@
+/*BRADLEYONE*/
+
+/*question 1 nil*/
+#magenta{
+	color: rgba(240, 248, 255, 0);
+	background-color: rgba(240, 248, 255, 0.5);
+	padding: 500px;
+	margin-left: 100px;
+	margin-top: 0px;
+	width: 20px;
+	/*position: absolute;*/
+}
+/*question 1 true slugs
+*/.blue{
+	color: rgba(200, 54, 54, 0);
+	background-image: url(http://i5.glitter-graphics.org/pub/590/590935ankbyj1xx4.gif);
+	background-size: 200px;
+	padding: 100px;
+	margin-left: 0px;
+	width: 20px;
+	opacity: 0.5;
+
+
+}
+/*question 1 false  half opaque star*/
+.christmasstar{ 
+	color: rgba(200, 54, 54, 0);
+	background-image: url(http://www.paintandquarterhorseconnection.com/images/star%20animated.gif);
+	background-size: 200px;
+	padding: 100px;
+	margin-left: 0px;
+	width: 20px;
+	opacity: 0.5;
+}
+
+
+/*BRADLEYTWO*/
+
+/*question 2 nil rainbowsparkles*/
+#green{
+
+	color: rgba(200, 54, 54, 0);
+	background-image: url(http://i51.tinypic.com/99nocl.png);
+	background-size: 200px;
+	padding: 100px;
+	margin-left: 100px;
+	margin-top: 0px;
+	width: 20px;
+	z-index: 0;
+
+
+
+}
+/*question 2 true*/ /*ugly purple sparkles change me plz*/
+.orange{
+
+	color: rgba(200, 54, 54, 0);
+	background-image: url(http://25.media.tumblr.com/bf4f39102d07df64f1540b11a498211a/tumblr_mktw9jIv9D1rvr9sko1_400.gif);
+	/*background-size: 100px 100px;*/
+	padding: 100px;
+	margin-left: 250px;
+	width: 20px;
+
+
+}
+
+/*question 2 false falling glitter, keep */
+.red{
+
+	color: rgba(200, 54, 54, 0);
+	background-image: url(http://i5.glitter-graphics.org/pub/590/590935ankbyj1xx4.gif);
+	/*background-size: 100px 100px;*/
+	padding: 100px;
+	margin-left: 250px;
+	width: 20px;
+
+
+}
+
+/*BRADLEYTHREE*/
+
+/*question 3 nil opening geranium keep?*/
+#cyan{
+
+	color: rgba(200, 54, 54, 0);
+	background-image: url(http://d1v8u1ev1s9e4n.cloudfront.net/54aec5115ccacf30ca1bbf81);
+	background-size: 200px;
+	padding: 100px;
+	margin-left: 300px;
+	margin-top: 0px;
+	width: 20px;
+	z-index: 0;
+
+
+
+}
+/*question 3 greece house */
+.purple{
+	color: rgba(200, 54, 54, 0);
+	background-image: url(http://www.greecetravel.com/aegean/hotels/sifnos/artemonas/flora_house/gallery/images/flora-house-artemonas-sifnos-03.jpg);
+	background-size: 900px;
+	padding: 300px;
+	margin-left: 500px;
+	margin-top: 0px;
+	width: 20px;
+	opacity: 0.5;
+}
+/*question 3 wet red*/
+.springgreen{
+	color: rgba(200, 54, 54, 0);
+	background-image: url(http://www.animatedimages.org/data/media/50/animated-flower-image-0033.gif);
+	background-size: 200px;
+	padding: 100px;
+	margin-left: 500px;
+	margin-top: 0px;
+	width: 20px;
+}
+
+/*BRADLEYFOUR*/
+
+/*question 4 spinning red*/
+#darkred{
+	color: rgba(200, 54, 54, 0);
+	background-image: url(http://www.animatedimages.org/data/media/50/animated-flower-image-0008.gif);
+	background-size: 200px;
+	padding: 100px;
+	margin-left: 750px;
+	margin-top: 0px;
+	width: 20px;
+}
+/*question 4 bouncing ghost*/
+.deeppink{
+	color: rgba(200, 54, 54, 0);
+	background-image: url(appnilimg.png);
+	background-size: 600px;
+	padding: 300px;
+	margin-left: 750px;
+	margin-top: 0px;
+	width: 20px;
+	opacity: 0.5;
+}
+/* question 4 chowchow*/
+.darkslateblue{
+	color: rgba(200, 54, 54, 0);
+	background-image: url(chowchow.JPG);
+	background-size: 500px;
+	padding: 400px;
+	margin-left: 750px;
+	margin-top: 0px;
+	width: 20px;
+	opacity: 0.5; 
+}
+
+
+#lightbluetint{
+	color: rgba(240, 248, 255, 0);
+	background-color: rgba(240, 248, 255, 0.5);
+	border: lightblue, solid, 0px;
+	margin-left: 0px;
+	margin-top: 0px;
+	width: 2000px;
+	height: 2000px;
+	position: absolute;
+	z-index: 0;
+
+
+}
+
+#jenshannon{
+
+	background-image: url("appbackground.png");
+	background-size: 500px;
+	
+}
+
+
+
